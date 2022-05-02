@@ -18,9 +18,12 @@ The purpose of this audit was to take the election results data and to identify 
 
 **County Votes**
 - Jefferson: 10.5% (38,855)
-- Denver: 82.8% (306,055)
+- *Denver: 82.8% (306,055)*
 - Arapahoe: 6.7% (24,801)
 
+![election_results](https://github.com/felixwong86/Election_Analysis/blob/main/Analysis/election_analysis.PNG)
 
+## Election Audit Summary
+The utilized script can be expanded on for additional election findings such as replacing counties with states or identifying political party strongholds if affiliation data is presented.
 
 
